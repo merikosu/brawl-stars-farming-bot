@@ -1,0 +1,23 @@
+{
+  "name": "brawl-stars-farm-bot",
+  "version": "1.0.0",
+  "description": "Bot can help you to farm 3v3 wins in friendly battles",
+  "main": "src/index.js",
+  "scripts": {
+    "dev": "node src/index.js"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ignatiuk/BrawlStarsFarmBot.git"
+  },
+  "author": "merik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ignatiuk/BrawlStarsFarmBot/issues"
+  },
+  "homepage": "https://github.com/Ignatiuk/BrawlStarsFarmBot#readme",
+  "dependencies": {
+    "robotjs": "^0.6.0"
+  }
+}
